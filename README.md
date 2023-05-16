@@ -24,11 +24,10 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
 * Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio, caso ainda não tenha usado o Node.js executar o comando ```npm install```,  depois de instalado executar ```npm start```, e ele abrirá uma aba em seu navegador padrão.
 
-## 🛠️ Construído com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+## 🛠️ Construído com <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para o marcação da página
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Para a estilização da página
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Para dinamização da página
 * [Node.js](https://nodejs.org/en/about/) 
 * [React.js](https://pt-br.reactjs.org) - Biblioteca JavaScript
 * [TypeScript](https://www.typescriptlang.org/) - Linguagem de programação
